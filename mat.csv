@@ -1,0 +1,65 @@
+﻿match_id,stage,date_time,stadium,home_team_name,away_team_name,group,result,years,city,home_team_goals,away_team_goals,win_conditions,attendance_match,half_time_home_goals,half_time_away_goals,referee,assistant1,assistant2,round_id,home_team_initials,away_team_initials
+1,Group 1,14/06/2018 18:00,Luzhniki Stadium Moscow,Russia,Saudi Arabia,Group A,5 - 0,2018,Moscow,5,0,,78011,2,0, Néstor Pitana (Arg),,,,RUS,KSA
+2,Group 1,15/06/2018 15:00,Ekaterinburg Stadium,Egypt,Uruguay,Group A,0 - 1,2018,Yekaterinburg,0,1,,27015,0,0,Björn Kuipers (Ned),,,,EGY,URU
+3,Group 2,15/06/2018 18:00,Saint Petersburg Stadium,Morocco,Iran,Group B,0 - 1,2018,Saint Petersburg,0,1,,62548,0,0,Cüneyt Çak?r (Tur),,,,MAR,IRN
+4,Group 2,15/06/2018 21:00,Fisht Stadium Sochi,Portugal,Spain,Group B,3 - 3,2018,Sochi,3,3,,43866,2,1, Gianluca Rocchi (Ita),,,,POR,ESP
+5,Group 3,16/06/2018 13:00,Kazan Arena,France,Australia,Group C,2 - 1,2018,Kazan,2,1,,41279,0,0,Andrés Cunha (Uru),,,,FRA,AUS
+6,Group 4,16/06/2018 16:00,Otkrytiye Arena Moscow,Argentina,Iceland,Group D,1 - 1,2018,Moscow,1,1,,44190,1,1,Szymon Marciniak (Pol),,,,ARG,ISL
+7,Group 3,16/06/2018 19:00,Saransk Stadium,Peru,Denmark,Group C,0 - 1,2018,Saransk,0,1,,40502,0,0,Bakary Gassama (Gam),,,,PER,DEN
+8,Group 4,16/06/2018 22:00,Kaliningrad Stadium,Croatia,Nigeria,Group D,2 - 0,2018,Kaliningrad,2,0,,31136,1,0,Sandro Ricci (Bra),,,,CRO,NGA
+9,Group 5,17/06/2018 15:00,Samara Stadium,Costa Rica,Serbia,Group E,0 - 1,2018,Samara,0,1,,41432,0,0,Malang Diedhiou (Sen),,,,CRC,SRB
+10,Group 6,17/06/2018 18:00,Luzhniki Stadium Moscow,Germany,Mexico,Group F,0 - 1,2018,Moscow,0,1,,78011,0,1,Alireza Faghani (Irn),,,,GER,MEX
+11,Group 5,17/06/2018 21:00,Rostov-on-Don Stadium,Brazil,Switzerland,Group E,1 - 1,2018,Rostov-on-don,1,1,,43109,1,0,César Arturo Ramos (Mex),,,,BRA,SUI
+12,Group 6,18/06/2018 15:00,Nizhny Novgorod Stadium,Sweden,Korea Republic,Group F,1 - 0,2018,Nizhny Novgorod,1,0,,42300,0,0,Joel Aguilar (Slv),,,,SWE,KOR
+13,Group 7,18/06/2018 18:00,Fisht Stadium Sochi,Belgium,Panama,Group G,3 - 0,2018,Sochi,3,0,,43257,0,0,Janny Sikazwe (Zam),,,,BEL,PAN
+14,Group 7,18/06/2018 21:00,Volgograd Stadium,Tunisia,England,Group G,1 - 2,2018,Volgograd,1,2,,41064,1,1,Wilmar Roldán (Col),,,,TUN,ENG
+15,Group 8,19/06/2018 15:00,Saransk Stadium,Colombia,Japan,Group H,1 - 2,2018,Saransk,1,2,,40842,1,1,Damir Skomina (Svn),,,,COL,JPN
+16,Group 8,19/06/2018 18:00,Otkrytiye Arena Moscow,Poland,Senegal,Group H,1 - 2,2018,Moscow,1,2,,44190,0,2,Nawaf Shukralla (Bhr),,,,POL,SEN
+17,Group 1,19/06/2018 21:00,Saint Petersburg Stadium,Russia,Egypt,Group A,3 - 1,2018,Saint Petersburg,3,1,,64468,0,0,Enrique Cáceres (Par),,,,RUS,EGY
+18,Group 2,20/06/2018 15:00,Luzhniki Stadium Moscow,Portugal,Morocco,Group B,1 - 0,2018,Moscow,1,0,,78011,1,0,Mark Geiger (Usa),,,,POR,MAR
+19,Group 1,20/06/2018 18:00,Rostov-on-Don Stadium,Uruguay,Saudi Arabia,Group A,1 - 0,2018,Rostov-on-Don,1,0,,42678,1,0,Clément Turpin (Fra),,,,URU,KSA
+20,Group 2,20/06/2018 21:00,Kazan Arena,Iran,Spain,Group B,0 - 1,2018,Kazan,0,1,,42718,0,0,Andrés Cunha (Uru),,,,IRN,ESP
+21,Group 3,21/06/2018 15:00,Samara Stadium,Denmark,Australia,Group C,1 - 1,2018,Samara,1,1,,40727,1,1,Antonio Mateu Lahoz (Esp),,,,DEN,AUS
+22,Group 3,21/06/2018 18:00,Ekaterinburg Stadium,France,Peru,Group C,1 - 0,2018,Yekaterinburg,1,0,,32789,1,0,Mohammed Abdulla Hassan Mohamed (Uae),,,,FRA,PER
+23,Group 4,21/06/2018 21:00,Nizhny Novgorod Stadium,Argentina,Croatia,Group D,0 - 3,2018,Nizhny Novgorod,0,3,,43319,0,0,Ravshan Irmatov (Uzb),,,,ARG,CRO
+24,Group 5,22/06/2018 15:00,Saint Petersburg Stadium,Brazil,Costa Rica,Group E,2 - 0,2018,Saint Petersburg,2,0,,64468,0,0,Björn Kuipers (Ned),,,,BRA,CRC
+65,Group 4,22/06/2018 18:00,Volgograd Stadium,Nigeria,Iceland,Group D,2 - 0,2018,Volgograd,2,0,,40904,0,0,Matthew Conger (Nzl),,,,NGA,ISL
+78,Group 5,22/06/2018 21:00,Kaliningrad Stadium,Serbia,Switzerland,Group E,1 - 2,2018,Kaliningrad,1,2,,33167,1,0,Felix Brych (Ger),,,,SRB,SUI
+67,Group 7,23/06/2018 15:00,Otkrytiye Arena Moscow,Belgium,Tunisia,Group G,5 - 2,2018,Moscow,5,2,,44190,2,1,Jair Marrufo (Usa),,,,BEL,TUN
+68,Group 6,23/06/2018 18:00,Rostov-on-Don Stadium,Korea Republic,Mexico,Group F,1 - 2,2018,Rostov-on-Don,1,2,,43472,0,1,Milorad Mažiæ (Srb),,,,KOR,MEX
+69,Group 6,23/06/2018 21:00,Fisht Stadium Sochi,Germany,Sweden,Group F,2 - 1,2018,Sochi,2,1,,44287,0,1,Szymon Marciniak (Pol),,,,GER,SWE
+70,Group 7,24/06/2018 15:00,Nizhny Novgorod Stadium,England,Panama,Group G,6 - 1,2018,Nizhny Novgorod,6,1,,43319,5,0,Gehad Grisha (Egy),,,,ENG,PAN
+71,Group 8,24/06/2018 18:00,Ekaterinburg Stadium,Japan,Senegal,Group H,2 - 2,2018,Yekaterinburg,2,2,,32572,1,1,Gianluca Rocchi (Ita),,,,JPN,SEN
+32,Group 8,24/06/2018 21:00,Kazan Arena,Poland,Colombia,Group H,0 - 3,2018,Kazan,0,3,,42873,0,1,César Arturo Ramos (Mex),,,,POL,COL
+33,Group 1,25/06/2018 17:00,Samara Stadium,Uruguay,Russia,Group A,3 - 0,2018,Samara,3,0,,41970,2,0,Malang Diedhiou (Sen),,,,URU,RUS
+34,Group 1,25/06/2018 17:00,Volgograd Stadium,Saudi Arabia,Egypt,Group A,2 - 1,2018,Volgograd,2,1,,36823,1,1,Wilmar Roldán (Col),,,,KSA,EGY
+35,Group 2,25/06/2018 21:00,Saransk Stadium,Iran,Portugal,Group B,1 - 1,2018,Saransk,1,1,,41685,0,1,Enrique Cáceres (Par),,,,IRN,POR
+36,Group 2,25/06/2018 21:00,Kaliningrad Stadium,Spain,Morocco,Group B,2 - 2,2018,Kaliningrad,2,2,,33973,1,1,Ravshan Irmatov (Uzb),,,,ESP,MAR
+37,Group 3,26/06/2018 17:00,Luzhniki Stadium Moscow,Denmark,France,Group C,0 - 0,2018,Moscow,0,0,,78011,0,0,Sandro Ricci (Bra),,,,DEN,FRA
+38,Group 3,26/06/2018 17:00,Fisht Stadium Sochi,Australia,Peru,Group C,0 - 2,2018,Sochi,0,2,,44073,0,1,Sergei Karasev (Rus),,,,AUS,PER
+39,Group 4,26/06/2018 21:00,Saint Petersburg Stadium,Nigeria,Argentina,Group D,1 - 2,2018,Saint Petersburg,1,2,,64468,0,1,Cüneyt Çak?r (Tur),,,,NGA,ARG
+40,Group 4,26/06/2018 21:00,Rostov-on-Don Stadium,Iceland,Croatia,Group D,1 - 2,2018,Rostov-on-Don,1,2,,43472,0,0,Antonio Mateu Lahoz (Esp),,,,ISL,CRO
+41,Group 6,27/06/2018 17:00,Ekaterinburg Stadium,Mexico,Sweden,Group F,0 - 3,2018,Yekaterinburg,0,3,,33061,0,0,Néstor Pitana (Arg),,,,MEX,SWE
+72,Group 6,27/06/2018 17:00,Kazan Arena,Korea Republic,Germany,Group F,2 - 0,2018,Kazan,2,0,,41835,0,0,Mark Geiger (Usa),,,,KOR,GER
+79,Group 5,27/06/2018 21:00,Otkrytiye Arena Moscow,Serbia,Brazil,Group E,0 - 2,2018,Moscow,0,2,,44190,0,1,Alireza Faghani (Irn),,,,SRB,BRA
+44,Group 5,27/06/2018 21:00,Nizhny Novgorod Stadium,Switzerland,Costa Rica,Group E,2 - 2,2018,Nizhny Novgorod,2,2,,44190,1,0,Clément Turpin (Fra),,,,SUI,CRC
+45,Group 8,28/06/2018 17:00,Volgograd Stadium,Japan,Poland,Group H,0 - 1,2018,Volgograd,0,1,,42189,0,0,Janny Sikazwe (Zam),,,,JPN,POL
+46,Group 8,28/06/2018 17:00,Samara Stadium,Senegal,Colombia,Group H,0 - 1,2018,Samara,0,1,,41970,0,0,Milorad Mažiæ (Srb),,,,SEN,COL
+47,Group 7,28/06/2018 21:00,Saransk Stadium,Panama,Tunisia,Group G,1 - 2,2018,Saransk,1,2,,37168,1,0,Nawaf Shukralla (Bhr),,,,PAN,TUN
+80,Group 7,28/06/2018 21:00,Kaliningrad Stadium,England,Belgium,Group G,0 - 1,2018,Kaliningrad,0,1,,33973,0,0,Damir Skomina (Svn),,,,ENG,BEL
+49,Round of 16,30/06/2018 17:00,Kazan Arena,France,Argentina,,4 - 3,2018,Kazan,4,3,,42873,1,1,Alireza Faghani (Irn),,,,FRA,ARG
+50,Round of 16,30/06/2018 21:00,Fisht Stadium Sochi,Uruguay,Portugal,,2 - 1,2018,Sochi,2,1,,44287,1,0,César Arturo Ramos (Mex),,,,URU,POR
+51,Round of 16,01/07/2018 17:00,Luzhniki Stadium Moscow,Spain,Russia,,1 - 1,2018,Moscow,1,1,Russia win of penalties 3-4,78011,1,1,Björn Kuipers (Ned),,,,ESP,RUS
+52,Round of 16,01/07/2018 21:00,Nizhny Novgorod Stadium,Croatia,Denmark,,1 - 1,2018,Nizhny Novgorod,1,1,Croatia win of penalties 3-2,40851,1,1,Néstor Pitana (Arg),,,,CRO,DEN
+53,Round of 16,02/07/2018 17:00,Samara Stadium,Brazil,Mexico,,2 - 0,2018,Samara,2,0,,41970,0,0,Gianluca Rocchi (Ita),,,,BRA,MEX
+54,Round of 16,02/07/2018 21:00,Rostov-on-Don Stadium,Belgium,Japan,,3 - 2,2018,Rostov-on-Don,3,2,,41466,0,0,Malang Diedhiou (Sen),,,,BEL,JPN
+81,Round of 16,03/07/2018 17:00,Saint Petersburg Stadium,Sweden,Switzerland,,1 - 0,2018,Saint Petersburg,1,0,,64042,0,0,Damir Skomina (Svn),,,,SWE,SUI
+76,Round of 16,03/07/2018 21:00,Otkrytiye Arena Moscow,Colombia,England,,1 - 1,2018,Moscow,1,1,England win of penalties 3-4,44190,0,0,Mark Geiger (Usa),,,,COL,ENG
+77,Quarter Finals,06/07/2018 17:00,Nizhny Novgorod Stadium,Uruguay,France,,0 - 2,2018,Nizhny Novgorod,0,2,,43319,0,1,Néstor Pitana (Arg),,,,URU,FRA
+58,Quarter Finals,06/07/2018 21:00,Kazan Arena,Brazil,Belgium,,1 - 2,2018,Kazan,1,2,,42873,0,2,Milorad Mažiæ (Srb),,,,BRA,BEL
+59,Quarter Finals,07/07/2018 17:00,Samara Stadium,Sweden,England,,0 - 2,2018,Samara,0,2,,39991,0,1,Björn Kuipers (Ned),,,,SWE,ENG
+60,Quarter Finals,07/07/2018 21:00,Fisht Stadium Sochi,Russia,Croatia,,2 - 2,2018,Sochi,2,2,Croatia win of penalties 3-4,44287,1,1,Sandro Ricci (Bra),,,,RUS,CRO
+61,Semi Finals,10/07/2018 21:00,Saint Petersburg Stadium,France,Belgium,,1 - 0,2018,Saint Petersburg,1,0,,64286,0,0,Andrés Cunha (Uru),,,,FRA,BEL
+62,Semi Finals,11/07/2018 21:00,Luzhniki Stadium Moscow,Croatia,England,,2 - 1,2018,Moscow,2,1,Croatia win in extra time,78011,0,1,Cuneyt Cakur(Tur),,,,ENG,CRO
+63,Final third place,14/07/2018 17:00,Saint Petersburg Stadium,Belgium,England,,2 - 0,2018,Saint Petersburg,2,0,,64406,1,0,Alireza Faghani (Irn),,,,BEL,ENG
+64,Finals,15/07/2018 18:00,Luzhniki Stadium Moscow,France,Croatia,,4 - 2,2018,Moscow,4,2,,78011,2,1,Néstor Pitana (Arg),,,,FRA,CRO
